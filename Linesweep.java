@@ -1,5 +1,3 @@
-package java_4_notes;
-
 import java.io.*;
 import java.util.*;
 
